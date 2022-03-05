@@ -11,4 +11,4 @@ The repo contains:
 Installation tutorial:
 * clone project
 * install requirements with `pip install -r requirements.txt`
-* Build using `bentoml serve iris_cls:latest --production`. Note: there might be a bug [here]|(https://github.com/bentoml/BentoML/issues/2313)
+* Build using `bentoml serve iris_cls:latest --production`. Note: there might be a bug [here](https://github.com/bentoml/BentoML/issues/2313), per March 5th, 2022.
